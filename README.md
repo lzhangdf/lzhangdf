@@ -1,2 +1,2 @@
 This is a test of git
-BREAK/WAKE
+I rewrite this then 
